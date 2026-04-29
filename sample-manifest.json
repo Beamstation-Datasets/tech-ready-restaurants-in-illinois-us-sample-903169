@@ -1,12 +1,12 @@
 {
-  "export_job_id": "531f1492-6aeb-467c-8a23-46e5ddf5372f",
+  "export_job_id": "9e3faf86-7968-4300-ac35-e542ec69b5e2",
   "id_short": 903169,
-  "published_at": "2026-04-23T07:28:49Z",
+  "published_at": "2026-04-29T19:42:54Z",
   "repo_name": "tech-ready-restaurants-in-illinois-us-sample-903169",
   "sample_asset_name": "beamstation_903169_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/903169/beamstation_903169_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "fda812dd6534e8013c857eca68d74cc0e5fb40dcd3f7d4e0ea84f2cc4287c4aa",
-  "sample_size_bytes": 32795,
-  "total_records": 40
+  "sample_records": 10,
+  "sample_sha256": "35b31e17bc64188815d1503a6a78b15cf6891758316756080187e2e0342919b0",
+  "sample_size_bytes": 54758,
+  "total_records": 103
 }
